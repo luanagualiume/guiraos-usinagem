@@ -1,6 +1,3 @@
-# guiraos-usinagem
-Landing page para a Guiraos Usinagem &amp; Ferramentaria — HTML e CSS puro, com seções de serviços, contato via WhatsApp e localização integrada.
-
 # Guiraos Usinagem & Ferramentaria
 
 Landing page desenvolvida para a Guiraos Usinagem & Ferramentaria, empresa 
